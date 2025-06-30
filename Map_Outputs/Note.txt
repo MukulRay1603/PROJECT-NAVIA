@@ -1,0 +1,3 @@
+Static images only:  
+Maps here are generated with folium.  
+To see and interact with the actual map, please run the notebook in Google Colab!
