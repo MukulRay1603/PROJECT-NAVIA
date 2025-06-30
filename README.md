@@ -32,5 +32,5 @@ Folium map previews are static on GitHub. For full interactive maps and experime
 
 ## Static Map Previews
 
-You’ll find static images in the `/images` folder.  
+You’ll find static images in the `/Map_Outputs` folder.  
 To see the live, interactive maps, run the notebook in Colab!
