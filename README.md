@@ -9,7 +9,7 @@ We use OpenStreetMap data and visualize the computed routes with interactive fol
 All code is provided in a Google Colab-friendly Jupyter notebook.
 
 **Note:**  
-Folium map previews are static on GitHub. For full interactive maps and experimentation, open the notebook in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MukulRay1603/PROJECT-NAVIA/blob/main/PROJ_NAVIA_Washington_D_C_Routing_Dijkstra_vs_A_.ipynb).
+Folium map previews are static on GitHub. For full interactive maps and experimentation, open the notebook in [Google Colab](https://colab.research.google.com/)
 
 ---
 
